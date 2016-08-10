@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="btncolor">#9ccc65</color>
+
+    <!-- 象牙色 -->
+    <color name="ivory">#fffff0</color>
+
+    <!-- 灰色-->
+    <color name="gray">#C0C0C0</color>
+
+    <!-- 孔雀蓝-->
+    <color name="blue">#33A1C9</color>
+
+    <!-- 沙棕色-->
+    <color name="zongse">#F4A460</color>
+
+    <!--蕃茄红 -->
+    <color name="red">#FF6347</color>
+    <!--粉色-->
+    <color name="fense">#ffc0cb</color>
+    <!--黄色-->
+    <color name="yellow">#ff9912</color>
+
+    <color name="dark_grey">#B8B8B8</color>
+    <color name="translucent">#cc808080</color>
+</resources>

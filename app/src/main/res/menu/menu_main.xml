@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/emp_add"
+        android:icon="@drawable/add"
+        android:title="新增"
+        ></item>
+    <item
+        android:id="@+id/emp_delete"
+        android:icon="@drawable/delete"
+        android:title="删除"
+        ></item>
+    <item
+        android:id="@+id/emp_ref"
+        android:icon="@drawable/mituo_icon_fresh"
+        android:title="刷新"
+        ></item>
+    <item
+        android:id="@+id/user_ma"
+        android:icon="@drawable/user"
+        android:title="用户管理"
+        ></item>
+    <item
+        android:id="@+id/emp_smsall"
+        android:icon="@drawable/comment"
+        android:title="群发短信"
+        ></item>
+    </menu>
+

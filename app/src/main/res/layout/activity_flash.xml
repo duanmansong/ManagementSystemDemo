@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffd267"
+    android:id="@+id/rel"
+    tools:context="com.zhiyuan3g.managementsystemdemo.activity.FlashActivity">
+
+    <TextView
+        android:layout_centerVertical="true"
+        android:gravity="center_horizontal"
+        android:text="小智管理系统"
+        android:textSize="50sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+    android:text="@string/flash_activity_info"
+    android:textStyle="bold"
+    android:textColor="#fff"
+    android:textSize="12sp"
+    android:layout_alignParentBottom="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginBottom="30dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" />
+    <TextView
+        android:text="@string/flash_activity_copyright"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:textSize="12sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>
